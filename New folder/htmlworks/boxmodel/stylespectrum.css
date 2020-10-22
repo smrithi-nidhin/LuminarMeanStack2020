@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+#table1{
+    margin-left: 25%;
+    text-align: center;
+}
+td{
+    
+    text-align: center;
+    height: 200px;
+    width: 120px;
+   
+    }
+    #one
+    {
+        background-color: rgb(143, 238, 113);
+    }
+    #two
+    {
+        background-color: gray;
+    }
+    #three
+    {
+        background-color: violet;
+    }
+    #four
+    {
+        background-color: turquoise;
+    }
+    #five{
+        background-color: tomato;
+    }
